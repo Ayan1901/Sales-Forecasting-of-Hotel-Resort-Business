@@ -1,5 +1,6 @@
 ## 📊 Sales Forecasting Snapshot
 ![Forecasting Snapshot](https://github.com/Ayan1901/Sales-Forecasting-of-Hotel-Resort-Business/blob/main/Snapshot%20of%20Sales%20Forecast.png)
+![Final Forecasting Snapshot](https://github.com/Ayan1901/Sales-Forecasting-of-Hotel-Resort-Business/blob/main/Snapshot%20of%20Sales%20Forecast.png)
 
 # 📊 Sales Forecasting & Time Series Analysis
 
